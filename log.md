@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 1, 2021
+### Day 0: July 31, 2021
 
 **Today's Progress**: Worked through HTML & HTML5 basics course on freecodecamp.com
 
@@ -9,7 +9,7 @@
 **Link(s) to work**: [course on freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
 
-### Day 1: June 27, Monday
+### Day 1: August 1, 2021
 
 **Today's Progress**: ...
 
