@@ -11,6 +11,15 @@
 
 ### Day 1: August 1, 2021
 
+**Today's Progress**: Worked through basic CSS course on freecodecamp.com
+
+**Thoughts** Easy enough, seemed pretty simplistic and repetitive, could'vve been faster paced. Completed all 44 segments of the course today. Enjoyed seeing the animation on the cute penguin at the end of the course.
+
+**Link(s) to work**: [course on freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
+
+
+### Day 2: August 2, 2021
+
 **Today's Progress**: ...
 
 **Thoughts** ...
