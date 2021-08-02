@@ -20,6 +20,15 @@
 
 ### Day 2: August 2, 2021
 
+**Today's Progress**: Worked though Applied Visual Design on freecodecamp.com
+
+**Thoughts** Almost didn't do it today. Felt sleepy and just not up for it but did it anyway. I didn't complete the course got 35 out 52 segments completed. Seemed repetitive again but I enjoyed being able to do some cool things with gradients and shadows.
+
+**Link(s) to work**: [course on freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
+
+### Day 3: August 3, 2021
+
 **Today's Progress**: ...
 
 **Thoughts** ...
