@@ -27,7 +27,16 @@
 **Link(s) to work**: [course on freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
 
 
-### Day 3: August 3, 2021
+### Day 3: August 4, 2021
+
+**Today's Progress**: Worked through Applied Visual Design on freecodecamp.com
+
+**Thoughts** Although feeling sleepy got done with the Visual Design, all 52 segments complete. Found it cool that you code use css code to animate things on a webpage. Bezier curve was trippy to figure out though. I find it helpful that freecodecamp corrects you when you forget a semi-colon, was guilty of that twice today...
+
+**Link(s) to work**: [course on freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
+
+### Day 4: August 5, 2021
 
 **Today's Progress**: ...
 
